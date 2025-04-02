@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Customer Segmentation: DeepSeek vs. ChatGPT Showcase  
+# 🚀 AI-Powered Customer Segmentation: DeepSeek vs. ChatGPT
 **by Duyen Pham | Data Analyst**  
 *[Badges: Python | Machine Learning | AI Automation | Business Insights]*  
 
